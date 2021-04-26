@@ -11,7 +11,11 @@ The main script implementing the simulations is the file ''Spatial_Evolutionary_
 7. Mutation
 8. Video animations
 
+A simplified schematic of the model is shown below.
+
 ![alt text](https://github.com/FrancescoInnocenti/Evolutionary-Game-Simulations/blob/main/Model_Schematic.png)
 
-The file named ''Worlds_of_Varying_Resource_Clustering'' contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources.
+The file named ''Worlds_of_Varying_Resource_Clustering'' contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources. The worlds rendered are shown below.
+
+
 
