@@ -1,6 +1,6 @@
 # Evolutionary-Game-Simulations
 
-This repository contains all the major MATLAB code for simulations of evolutionary games for a Bachelor Research Dissertation. The main script implementing the simulations is ''Spatial_Evolutionary_Game'' and due to Mark (2013). The 'combinator' function is necessary to run this script. The code is divided into 8 main blocks:
+This repository contains all the major MATLAB code for simulations of evolutionary games for a Bachelor Research Dissertation. The main script implementing the simulations is **Spatial_Evolutionary_Game** and due to Mark (2013). The 'combinator' function is necessary to run this script. The code is divided into 8 main blocks:
 1. Simulation parameters
 2. Initialisation of strategies
 3. Start of game
@@ -13,6 +13,6 @@ A simplified schematic of the model is shown below.
 
 ![alt text](https://github.com/FrancescoInnocenti/Evolutionary-Game-Simulations/blob/main/Model_Schematic.png)
 
-The file ''Worlds_of_Varying_Resource_Clustering'' contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources. This code also generates the figure below.
+The file **Worlds_of_Varying_Resource_Clustering** contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources. This code also generates the figure below.
 
 ![alt text](https://github.com/FrancescoInnocenti/Evolutionary-Game-Simulations/blob/main/Resource_Clustering_Figure.png)
