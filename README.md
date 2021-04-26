@@ -3,7 +3,7 @@
 This repository contains all the major MATLAB code for simulations of evolutionary games for a Bachelor Research Dissertation. The main script implementing the simulations is the file ''Spatial_Evolutionary_Game'' and due to Mark (2013). The 'combinator' function is necessary to run this script. The code is divided into 8 main blocks:
 1. Simulation parameters
 2. Initialisation of strategies
-3. Start game
+3. Start of game
 5. Selection
 6. Recombination
 7. Mutation
