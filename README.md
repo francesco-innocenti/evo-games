@@ -13,6 +13,6 @@ A simplified schematic of the model is shown below.
 
 ![alt text](https://github.com/FrancescoInnocenti/Evolutionary-Game-Simulations/blob/main/Model_Schematic.png)
 
-The file **Worlds_of_Varying_Resource_Clustering** contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources. This code also generates the figure below.
+The file **Worlds_of_Varying_Resource_Clustering** contains code for network modelling of the environment and creation of worlds with varying spatial clustering of resources.
 
 ![alt text](https://github.com/FrancescoInnocenti/Evolutionary-Game-Simulations/blob/main/Resource_Clustering_Figure.png)
