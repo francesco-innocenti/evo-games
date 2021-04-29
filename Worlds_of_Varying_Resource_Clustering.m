@@ -1,5 +1,5 @@
 %% Multipanel figure with worlds of varying spatial clustering of resources
-% this script creates a figure with 5 different types of world
+% this script creates a figure with 6 different types of world
 % to test in evolutionary game simulations
   % world with one cluster of high resources        (mean distance ~= 3)
   % world with two *close* clusters of resources    (md ~= 4)
