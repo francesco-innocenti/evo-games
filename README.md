@@ -1,9 +1,9 @@
 # Evolutionary Game Simulations
 
-This repository holds all the major MATLAB code of evolutionary game simulations 
-for a Bachelor Research Dissertation. The main script implementing the 
-simulations is `Spatial_Evolutionary_Game`. The `combinator` function is 
-necessary to run this script. The main script does the following:
+This repository holds code of evolutionary game simulations for a Bachelor 
+Research Dissertation. The main script implementing the simulations is 
+`Spatial_Evolutionary_Game`. The `combinator` function is necessary to run this 
+script. The code does the following:
 
 1. Set simulation parameters
 2. Initialise strategies
